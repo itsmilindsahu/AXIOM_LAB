@@ -1,4 +1,5 @@
 # BIS Standard Discovery — Graph-Enhanced RAG PLEASE ENSURE TO DONWLOAD THE ZIP FILE
+# PLEASE GO THROUGH THE MAIN YOUTUBE VIDEO FOR DEMONSTRATION: https://youtu.be/lNJl_sjjvMk
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
